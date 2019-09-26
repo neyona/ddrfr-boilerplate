@@ -2,6 +2,8 @@
 
 This boilerplate was made to connect Django, the Django Rest Framework, and React together. It uses a webpack instead of create-react-app. I like create-react-app quite a lot, but Webpack and React worked well in this situation. This boilerplate is based heavily on Valentino Gagliardi's setup and tutorials. His site is https://www.valentinog.com and his tutorials are excellent. I have also learned a lot about Django from W. S. Vincent's books and blog.
 
+**** If you clone this as is, you will need to add in favicons or take out references to them. I left in the mechanics for favicons without leaving them in. I have used https://realfavicongenerator.net to generate them and been happy with the results. ****
+
 I started with Django and used the following commands in terminal.
 
 mkdir ddrfr-boilerplate && cd ddrfr-boilerplate
