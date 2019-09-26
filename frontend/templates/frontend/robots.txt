@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /manifest.json
+Allow: /robots.txt
+Allow: /pagetwo
+Allow: /
+Disallow: /api
+Disallow: /admin

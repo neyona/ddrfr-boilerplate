@@ -1,0 +1,22 @@
+[
+    {
+        "model": "contactus.contactus",
+        "pk": 1,
+        "fields": {
+            "name": "Person One",
+            "email": "anmail@anmail.com",
+            "message": "I have a question about this site. Who made it?",
+            "created_at": "2019-09-14 12:24:00"
+        }
+    },
+    {
+        "model": "contactus.contactus",
+        "pk": 2,
+        "fields": {
+            "name": "Person Two",
+            "email": "anothermail@anotheremail.com",
+            "message": "Wanted to send along my contact info. Contact me back please.",
+            "created_at": "2019-09-14 23:21:00"
+        }
+    }
+]
