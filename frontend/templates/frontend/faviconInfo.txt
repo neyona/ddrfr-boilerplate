@@ -1,1 +1,0 @@
-There should be a favicon file here, you can generate your own and add a file. I like using https://realfavicongenerator.net.
