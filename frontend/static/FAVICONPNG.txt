@@ -1,0 +1,1 @@
+Add your favicon file that is a png type of file here instead this text file.
