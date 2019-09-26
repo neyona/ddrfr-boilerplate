@@ -1,1 +1,2 @@
-Here it is 
+There should be a bunch of favicons in this folder, you can generate your own and add them here. I like using https://realfavicongenerator.net to generate them.
+
