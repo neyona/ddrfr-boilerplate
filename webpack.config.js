@@ -43,17 +43,14 @@ module.exports = {
         ],
       },
       {
-        test: /\.(png|jpg|gif)$/i,
-        use: [
-          {
-            loader: 'url-loader',
-            options: {
-              limit: 8192,
+        test: /\.(gif|png|jpe?g|svg)$/i,
+        loader: 'url-loader',
+            query: {
+                limit: 600000, // 600kB
+                name: 'img/[name].[hash:7].[ext]'
             },
-          },
-        ],
-      }
-    ]
+        },
+     ]
   },
   devServer: {
     historyApiFallback: true, // Necessary for react-router-dom to work
