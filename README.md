@@ -59,4 +59,4 @@ $ python manage.py runserver
 I added a fair amount of styling to have styling placeholders available. Permissions are not addressed in this boilerplate, and when logged into admin, no contact forms can be submitted through the home page, though they can be edited in the admin.
 Permissions were not part of the scope of this boilerplate. 
 
-My other sites are prek-eval-demo.herokuapp.com, underwaterfortunes.com, neyonajones.com, and monsterdreamsbook.com
+My other sites are prek-eval-demo.herokuapp.com, underwaterfortunes.com, and monsterdreamsbook.com
